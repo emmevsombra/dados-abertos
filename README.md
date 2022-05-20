@@ -1,4 +1,1 @@
-### Plataforma de disponibilização dos dados Abertos dos Órgãos Jurisdicionados do Ceará
-##### Desenvolvido por:
-
-- Marcos Vinicius dos Santos Sombra
+### Plataforma de disponibilização dos dados Abertos de Prefeituras e Câmaras do Ceará (descontinuado)
